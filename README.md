@@ -8,7 +8,7 @@ Aqui esta el link del curso creado por Fernando Herrera :arrow_down:
   <img src="https://res.cloudinary.com/jesus0311/image/upload/v1630009912/Udemy/UdemyLogo_r7giuh.png" width="150px" />
 </a>
 
-# Instrucciones
+## Instrucciones
 
 - Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
 
