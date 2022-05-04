@@ -1,4 +1,4 @@
-# About this repository
+# Acerca de este repositorio
 
 Hola soy Desarrollador Front-end y este repositorio es sobre un curso de ReactiveX.
 
